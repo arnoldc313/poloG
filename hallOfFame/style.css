@@ -1,0 +1,12 @@
+body {
+    background-color: blue;
+}
+#first{
+    background-color: pink;
+}
+#second{
+    background-color: violet;
+}
+.words{
+    color: white;
+}
